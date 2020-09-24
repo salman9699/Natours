@@ -10,3 +10,6 @@ Once user sign up or create account for the first time, user will be getting wel
 And all this stuff is built by using NodeJs, Express, MongoDB, Mongoose.
 
 And for the Email delivery service "Nodemailer + SendGrid" is used.
+
+
+Also hosted at : https://natours-sallu.herokuapp.com/
